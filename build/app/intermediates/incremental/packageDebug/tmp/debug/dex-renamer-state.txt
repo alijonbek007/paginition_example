@@ -1,0 +1,4 @@
+#Mon Jan 24 16:04:07 UZT 2022
+base.0=/home/alijon/screen/homework2/pagination_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
